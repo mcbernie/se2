@@ -1,0 +1,4 @@
+target/
+deb_cross/*.tar.xz
+deb_cross/*.tar.gz
+tmp/

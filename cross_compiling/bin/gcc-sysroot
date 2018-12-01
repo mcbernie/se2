@@ -1,0 +1,2 @@
+#!/bin/bash
+arm-linux-gnueabihf-gcc --sysroot=$HOME/pi-tools/arm-bcm2708/arm-linux-gnueabihf/arm-linux-gnueabihf/sysroot "$@" -march=armv6
